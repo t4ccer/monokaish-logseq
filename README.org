@@ -1,4 +1,4 @@
-* =monokaish.el=
+* =monokaish-logseq=
 
 My theme losely based on monokai. Only dark mode is configured.
 
