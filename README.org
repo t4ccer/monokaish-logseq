@@ -2,6 +2,16 @@
 
 My theme losely based on monokai. Only dark mode is configured.
 
+** Installation
+
+*** Online
+
+Add =@import url('https://cdn.jsdelivr.net/gh/t4ccer/monokaish-logseq@main/custom.css');= to =custom.css= file in your logseq directory.
+
+*** Offline
+
+Copy content of =custom.css= file from this repo to =custom.css= file in your logseq directory.
+
 ** License
 
 Copyright (C) 2022 Tomasz Maciosowski (t4ccer)
