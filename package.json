@@ -1,0 +1,16 @@
+{
+    "name": "monokaish-logseq",
+    "description": "Monokaish theme for logseq.",
+    "author": "t4ccer",
+    "repo": "t4ccer/monokaish-logseq",
+    "logseq": {
+      "themes": [
+        {
+          "name": "Monokaish theme",
+          "url": "./custom.css",
+          "description": "Monokaish theme for logseq.",
+          "mode": "dark"
+        }
+     ]
+    }
+  }
